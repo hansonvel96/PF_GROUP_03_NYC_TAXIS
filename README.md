@@ -1,6 +1,6 @@
 ![Banner](https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/blob/main/Imagenes/henry.jfif)
 <h1 align="center">DATA SCIENCE - PROYECTO FINAL GRUPAL</h1>
-<h1 align="center">Taxis renovables</h1>
+<h1 align="center">Taxis sustentables</h1>
 
 <p align="center">
   <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/blob/main/Imagenes/taxi.png" height="300" width="auto" alt="Imagen">
