@@ -3,7 +3,7 @@
 <h1 align="center">Taxis renovables</h1>
 
 <p align="center">
-  <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/blob/main/Imagenes/taxi.png" height="400" width="auto" alt="Imagen">
+  <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/blob/main/Imagenes/taxi.png" height="300" width="auto" alt="Imagen">
 </p>
 
 <h1>Herramientas</h1>
