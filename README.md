@@ -6,8 +6,45 @@
   <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/blob/main/Imagenes/eco-friendly.png" height="350" width="auto" alt="Imagen">
 </p>
 
-<h1>Herramientas</h1>
-Este proyecto de <strong>Data Data Science</strong> fue creado utilizando librerías de <strong>Python</strong> para el EDA (Análisis exploratorio de los datos) y <strong>Power BI</strong>  para la creación del dashboard. Además, utilizamos <strong>Google GCP</strong> para almacenar los datos en la nube.
+<h1>Herramientas  y Tecnologias</h1>
+Este proyecto de <strong>Data Data Science</strong> fue creado utilizando librerías de <strong>Python</strong> para el EDA (Análisis exploratorio de los datos) y <strong>Power BI</strong>  para la creación del dashboard.
+<br>
+<strong>1. Github</strong>
+<br>
+-Descripción: Es un servicio web de hosting para el control de versiones y la colaboración en proyectos de software.
+<br>-Uso en el Proyecto: Se empleará para la gestión del código fuente, seguimiento de cambios, colaboración en el desarrollo y documentación del proyecto, garantizando un flujo de trabajo organizado y eficiente en el desarrollo de software y análisis de datos.
+<br>
+<br>
+<strong>2. Google Drive</strong>
+<br>-Descripción: Conjunto de herramientas de colaboración y productividad en la nube de Google.
+<br>-Uso en el Proyecto: Será utilizado para la colaboración en equipo, la gestión de documentos, presentaciones, facilitando la comunicación y el trabajo coordinado entre los miembros del equipo.
+<br>
+<br>
+<strong>3. Google Sheets</strong>
+<br>
+-Descripción: Google Sheets es una herramienta de hojas de cálculo en línea que permite la colaboración en tiempo real. Es ampliamente utilizado para el análisis de datos debido a su accesibilidad y funcionalidad de integración.
+<br>-Uso en el Proyecto: Será utilizado para la recopilación y análisis colaborativo de datos financieros y operativos. Su integración con otras herramientas de Google Cloud facilitará la manipulación y visualización de datos, permitiendo compartir resultados y análisis en tiempo real con el equipo y los stakeholders.
+<br>
+<br>
+<strong>4. Python</strong>
+<br>
+-Descripción: Python es un lenguaje de programación interpretado, con fuerte soporte para la integración y la orientación a objetos. Su simplicidad y flexibilidad lo han convertido en una opción preferida para análisis de datos, ciencia de datos y desarrollo de software.
+<br>-Uso en el Proyecto: Será utilizado para analizar grandes conjuntos de datos de tráfico, calidad del aire y sonora, aprovechando librerías como Pandas para la manipulación y análisis de datos estructurados, y Scikit-learn para el desarrollo de modelos de machine learning. Python nos permitirá procesar y analizar eficientemente los datos, así como desarrollar algoritmos predictivos y de clasificación necesarios para entender las dinámicas del tráfico y su impacto ambiental.
+<br>
+<br>
+<strong>5. Google Cloud Storage</strong>
+<br>
+-Descripción: Es un servicio de almacenamiento de objetos en la nube que ofrece durabilidad y escalabilidad. Permite guardar grandes cantidades de datos no estructurados.
+<br>-Uso en el Proyecto: Cloud Storage será utilizado para almacenar de manera segura y eficiente los grandes volúmenes de datos recopilados durante el proyecto, desde datos brutos hasta resultados procesados y modelos de machine learning.
+<br>
+<br>
+<strong>6. Google Cloud BigQuery</strong>
+<br>-Descripción: BigQuery es un servicio de almacén de datos en la nube de Google, que ofrece una ejecución rápida de consultas SQL sobre grandes datasets. Se destaca por su capacidad de manejar petabytes de datos y su modelo de precios basado en el uso.
+<br>-Uso en el Proyecto: Utilizaremos BigQuery para consolidar y analizar grandes volúmenes de datos de diferentes fuentes. Su capacidad para manejar consultas complejas y grandes conjuntos de datos nos permitirá identificar patrones y tendencias en el tráfico.
+<br>
+<br>
+Cada una de estas tecnologías ha sido cuidadosamente seleccionada para abordar aspectos específicos del proyecto.
+<br>
 <br>
 
 <h1>Contexto</h1>
