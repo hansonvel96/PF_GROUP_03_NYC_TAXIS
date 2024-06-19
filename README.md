@@ -28,6 +28,12 @@ Teniendo en cuenta el contexto, proponemos los siguientes objetivos a cumplir:
   <li><strong>Desarrollar un MVP</strong> (Mínimo Producto Viable) para mostrar al cliente.</li>
 </ul>​
 <br>
+<br>
+
+<h1>ETL</h1>
+<br>
+
+<h1>EDA</h1>
 
 <h1>KPI'S</h1>
 Teniendo en cuenta los objetivos planteados proponemos los siguientes KPI’s:
