@@ -63,5 +63,29 @@ Teniendo en cuenta el contexto, proponemos los siguientes objetivos a cumplir:
   <li><strong>Recopilar, depurar y disponibilizar información</strong>que el cliente solicita para ayudar a la toma de decisiones.</li>
   <li><strong>Desarrollar un MVP</strong> (Mínimo Producto Viable) para mostrar al cliente.</li>
 </ul>​
+<br>
+<br>
 
+<h1>ETL</h1>
+<br>
 
+<h1>EDA</h1>
+
+<h1>KPI'S</h1>
+Teniendo en cuenta los objetivos planteados proponemos los siguientes KPI’s:
+<ul>
+  <br>
+  <li><strong>Reducción de un 5% en la Emisión de CO2</strong>por Kilómetro Recorrido para el último año que el cliente solicita para ayudar a la toma de decisiones.</li>
+  <li><strong>Disminución de un 4% en la Duración de los Viajes</strong>, con la utilización de vehículos eléctricos VS vehículos a combustión para lo que va de año</li>
+  <li><strong>Reducción en un 2% los Niveles de Contaminación Sonora </strong>por zona para el total de viajes realizados el último semestre, con la utilización de vehículos eléctricos VS vehículos a combustión para lo que va de año</li>
+</ul>
+
+<br>
+
+<h1>Machine Learning</h1>
+<br>
+
+<h1>Dashboard</h1>
+<br>
+
+<h1>Conclusiones</h1>
