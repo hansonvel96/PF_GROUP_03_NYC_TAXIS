@@ -28,6 +28,7 @@ Este proyecto de <strong>Data Data Science</strong> fue creado utilizando librer
 <br>
 <br>
 <strong>4. Google Cloud Storage</strong>
+<br>
 -Descripción: Es un servicio de almacenamiento de objetos en la nube que ofrece durabilidad y escalabilidad. Permite guardar grandes cantidades de datos no estructurados.
 -Uso en el Proyecto: Cloud Storage será utilizado para almacenar de manera segura y eficiente los grandes volúmenes de datos recopilados durante el proyecto, desde datos brutos hasta resultados procesados y modelos de machine learning.
 <br>
