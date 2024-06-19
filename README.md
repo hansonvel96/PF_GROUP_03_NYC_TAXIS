@@ -6,9 +6,9 @@
   <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/blob/main/Imagenes/eco-friendly.png" height="350" width="auto" alt="Imagen">
 </p>
 
-<h1>Herramientas</h1>
+<h1>Herramientas  y Tecnologias</h1>
 Este proyecto de <strong>Data Data Science</strong> fue creado utilizando librerías de <strong>Python</strong> para el EDA (Análisis exploratorio de los datos) y <strong>Power BI</strong>  para la creación del dashboard.
-
+<br>
 <strong>1. Github</strong>
 <br>
 -Descripción: Es un servicio web de hosting para el control de versiones y la colaboración en proyectos de software.
