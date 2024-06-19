@@ -24,8 +24,9 @@ Este proyecto de <strong>Data Data Science</strong> fue creado utilizando librer
 <h1>Objetivos</h1>
 Teniendo en cuenta el contexto, proponemos los siguientes objetivos a cumplir:
 <ul>
-  <li>Recopilar, depurar y disponibilizar información que el cliente solicita para ayudar a la toma de decisiones.</li>
-  <li>Desarrollar un MVP (Mínimo Producto Viable) para mostrar al cliente.</li>
+  <br>
+  <li><strong>Recopilar, depurar y disponibilizar información</strong>que el cliente solicita para ayudar a la toma de decisiones.</li>
+  <li><strong>Desarrollar un MVP</strong>(Mínimo Producto Viable) para mostrar al cliente.</li>
 </ul>​
 
 
