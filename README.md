@@ -14,3 +14,8 @@ Este proyecto de <strong>Data Data Science</strong> fue creado utilizando librer
 
 <p><strong>El problema del cambio climático</strong>, provocado en gran medida por el uso de energías provenientes de combustibles fósiles en los vehículos, <strong>ha alcanzado niveles críticos</strong>. Las compañías se ven instadas a actuar frente a estos desafíos ambientales, lo que implica la necesidad de medir y mejorar los niveles de consumo y generación energética. <strong>Esta conciencia conduce a la búsqueda de soluciones</strong> para mitigar dicho impacto en el medio ambiente.</p>
 <br>
+
+<h1>Cliente</h1>
+<p> <strong>Una empresa de transporte de larga y media distancia</strong>, que hace uso de vehículos tipo “ómnibus”, quiere dar el salto a brindar el servicio de transporte a través de automóviles, con la considerable diferencia de que estos “taxis” ayuden a crear un <strong>futuro menos contaminante</strong>, tanto del aire como del espacio sonoro, manteniendo un buen servicio a la hora de brindarlo. El problema es que la empresa no cuenta aún con la información necesaria.</p>
+
+<br>
