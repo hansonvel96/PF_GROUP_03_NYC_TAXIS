@@ -7,12 +7,7 @@
 </p>
 
 <h1>Herramientas</h1>
-Este proyecto de <strong>Data Data Science</strong> fue creado utilizando librerías de <strong>Python</strong> para el EDA (Análisis exploratorio de los datos) y <strong>Power BI</strong>  para la creación del dashboard.
-
-<strong>1. Google Sheets</strong>
-Descripción: Google Sheets es una herramienta de hojas de cálculo en línea que permite la colaboración en tiempo real. Es ampliamente utilizado para el análisis de datos debido a su accesibilidad y funcionalidad de integración.
-Uso en el Proyecto: Será utilizado para la recopilación y análisis colaborativo de datos financieros y operativos. Su integración con otras herramientas de Google Cloud facilitará la manipulación y visualización de datos, permitiendo compartir resultados y análisis en tiempo real con el equipo y los stakeholders.
-<br>
+Este proyecto de <strong>Data Data Science</strong> fue creado utilizando librerías de <strong>Python</strong> para el EDA (Análisis exploratorio de los datos) y <strong>Power BI</strong>  para la creación del dashboard. Además, utilizamos <strong>Google GCP</strong> para almacenar los datos en la nube.
 <br>
 
 <h1>Contexto</h1>
