@@ -34,8 +34,8 @@ Este proyecto de <strong>Data Data Science</strong> fue creado utilizando librer
 <br>
 <br>
 <strong>5. Google Cloud BigQuery</strong>
-Descripción: BigQuery es un servicio de almacén de datos en la nube de Google, que ofrece una ejecución rápida de consultas SQL sobre grandes datasets. Se destaca por su capacidad de manejar petabytes de datos y su modelo de precios basado en el uso.
-<br>Uso en el Proyecto: Utilizaremos BigQuery para consolidar y analizar grandes volúmenes de datos de diferentes fuentes. Su capacidad para manejar consultas complejas y grandes conjuntos de datos nos permitirá identificar patrones y tendencias en el tráfico.
+<br>-Descripción: BigQuery es un servicio de almacén de datos en la nube de Google, que ofrece una ejecución rápida de consultas SQL sobre grandes datasets. Se destaca por su capacidad de manejar petabytes de datos y su modelo de precios basado en el uso.
+<br>-Uso en el Proyecto: Utilizaremos BigQuery para consolidar y analizar grandes volúmenes de datos de diferentes fuentes. Su capacidad para manejar consultas complejas y grandes conjuntos de datos nos permitirá identificar patrones y tendencias en el tráfico.
 <br>
 <br>
 <h1>Contexto</h1>
