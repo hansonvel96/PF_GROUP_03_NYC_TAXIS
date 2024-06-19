@@ -38,3 +38,12 @@ Teniendo en cuenta los objetivos planteados proponemos los siguientes KPI’s:
   <li><strong>Reducción en un 2% los Niveles de Contaminación Sonora </strong>por zona para el total de viajes realizados el último semestre, con la utilización de vehículos eléctricos VS vehículos a combustión para lo que va de año</li>
 </ul>
 
+<br>
+
+<h1>Machine Learning</h1>
+<br>
+
+<h1>Dashboard</h1>
+<br>
+
+<h1>Conclusiones</h1>
