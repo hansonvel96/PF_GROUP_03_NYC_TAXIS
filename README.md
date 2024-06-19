@@ -26,7 +26,7 @@ Teniendo en cuenta el contexto, proponemos los siguientes objetivos a cumplir:
 <ul>
   <br>
   <li><strong>Recopilar, depurar y disponibilizar información</strong>que el cliente solicita para ayudar a la toma de decisiones.</li>
-  <li><strong>Desarrollar un MVP</strong>(Mínimo Producto Viable) para mostrar al cliente.</li>
+  <li><strong>Desarrollar un MVP</strong> (Mínimo Producto Viable) para mostrar al cliente.</li>
 </ul>​
 
 
