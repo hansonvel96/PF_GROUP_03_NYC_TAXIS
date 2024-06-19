@@ -19,5 +19,10 @@ Este proyecto de <strong>Data Data Science</strong> fue creado utilizando librer
 
 <h1>Cliente</h1>
 <p> <strong>Una empresa de transporte de larga y media distancia</strong>, que hace uso de vehículos tipo “ómnibus”, quiere dar el salto a brindar el servicio de transporte a través de automóviles, con la considerable diferencia de que estos “taxis” ayuden a crear un <strong>futuro menos contaminante</strong>, tanto del aire como del espacio sonoro, manteniendo un buen servicio a la hora de brindarlo. El problema es que la empresa no cuenta aún con la información necesaria.</p>
-
 <br>
+
+<h1>Objetivos</h1>
+Teniendo en cuenta el contexto, proponemos los siguientes objetivos a cumplir:
+*​Recopilar, depurar y disponibilizar información que el cliente solicita para ayudar a la toma de decisiones.
+*Desarrollar un MVP (Mínimo Producto Viable) para mostrar al cliente.
+
