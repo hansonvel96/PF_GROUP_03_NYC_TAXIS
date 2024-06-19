@@ -9,6 +9,8 @@
 <h1>Herramientas</h1>
 Este proyecto de <strong>Data Data Science</strong> fue creado utilizando librerías de <strong>Python</strong> para el EDA (Análisis exploratorio de los datos) y <strong>Power BI</strong>  para la creación del dashboard.
 <br>
+<br>
+
 <h1>Contexto</h1>
 <p>Los servicios de transporte en Nueva York, como los <strong>taxis</strong> y Uber, han <strong>revolucionado la movilidad urbana</strong>. Estas alternativas ofrecen una forma conveniente y accesible de desplazarse, transformando la percepción sobre el transporte público y el alquiler de coches.</p>
 
