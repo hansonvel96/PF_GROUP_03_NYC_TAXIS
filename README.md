@@ -43,6 +43,9 @@ Este proyecto de <strong>Data Data Science</strong> fue creado utilizando librer
 <br>-Uso en el Proyecto: Utilizaremos BigQuery para consolidar y analizar grandes volúmenes de datos de diferentes fuentes. Su capacidad para manejar consultas complejas y grandes conjuntos de datos nos permitirá identificar patrones y tendencias en el tráfico.
 <br>
 <br>
+Cada una de estas tecnologías ha sido cuidadosamente seleccionada para abordar aspectos específicos del proyecto.
+<br>
+<br>
 <h1>Contexto</h1>
 <p>Los servicios de transporte en Nueva York, como los <strong>taxis</strong> y Uber, han <strong>revolucionado la movilidad urbana</strong>. Estas alternativas ofrecen una forma conveniente y accesible de desplazarse, transformando la percepción sobre el transporte público y el alquiler de coches.</p>
 
