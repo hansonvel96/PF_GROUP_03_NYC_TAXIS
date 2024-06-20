@@ -43,6 +43,16 @@ Este proyecto de <strong>Data Data Science</strong> fue creado utilizando librer
 <br>-Uso en el Proyecto: Utilizaremos BigQuery para consolidar y analizar grandes volúmenes de datos de diferentes fuentes. Su capacidad para manejar consultas complejas y grandes conjuntos de datos nos permitirá identificar patrones y tendencias en el tráfico.
 <br>
 <br>
+<strong>7. Visual Studio Code </strong>
+<br>-Descripción: Visual Studio Code es un editor de código fuente desarrollado por Microsoft para Windows, Linux, macOS y Web. Incluye soporte para la depuración, control integrado de Git, resaltado de sintaxis, finalización inteligente de código, fragmentos y refactorización de código.
+<br>-Uso en el Proyecto: Utilizaremos esta herramienta de Editor de Codigo ya que soporta muchos lenguajes el principal que utilizaremos Phyton para el tema de codificación para todo el proyectó en general.
+<br>
+<br>
+<strong>8. Power BI </strong>
+<br>-Descripción: Power BI es una herramienta que se utiliza principalmente  para crear cuadros de mando que faciliten la toma de decisiones. La información se  puede actualizar de manera automatizada o manual y permite la compartición de los informes mediante la propia herramienta..
+<br>-Uso en el Proyecto: Utilizaremos esta herramienta de visualización de datos atraves de luego de los datos luego de la carga y transformaciones previas ETL, se tiene los datos limpios, esto se traduce en  tablas y gráficas que permiten que el usuario interactúe con la información seleccionando períodos de estudio, tipologías de clientes o de productos o aquellas otras dimensiones que necesite visualizar la persona que consume la información
+<br>
+<br>
 Cada una de estas tecnologías ha sido cuidadosamente seleccionada para abordar aspectos específicos del proyecto.
 <br>
 <br>
