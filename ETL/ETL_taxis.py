@@ -170,7 +170,7 @@ combined_taxis.to_parquet(r'Datasets/limpios/taxis.parquet', index='False')
 #ETL- sonidos
 
 #Leo el dataset
-df_NYC_sonidos = pd.read_csv(r'Datasets\sucios\NYC_sonidos_raw.csv')
+df_NYC_sonidos = pd.read_csv(r'Datasets/sucios/NYC_sonidos_raw.csv')
 
 #Lista de columnas a eliminar
 columnas_a_eliminar = [
@@ -286,7 +286,7 @@ df_NYC_sonidos.to_parquet('NYC_sonidos.parquet', index=False)
 #ETL-air.quality
 
 #Leo el dataset
-df_NYC_air_quality = pd.read_csv(r'Datasets\sucios\Air_Quality_raw.csv')
+df_NYC_air_quality = pd.read_csv(r'Datasets/sucios/Air_Quality_raw.csv')
 
 # Vemos el contenido dentro de la columna 'Geo Place Name' con la finalidad de poder crear un diccionario para poder normalizar los 'Borough'.
 #Listo los elementos únicos de la columna 'Geo Place Name'
