@@ -11,11 +11,12 @@ Este proyecto de <strong>Data Data Science</strong> fue creado utilizando librer
 <br>
 <strong>1. Github</strong>
 <br>
-<br>-Uso en el Proyecto: Se empleará para la gestión del código fuente, seguimiento de cambios, colaboración en el desarrollo y documentación del proyecto, garantizando un flujo de trabajo organizado y eficiente en el desarrollo de software y análisis de datos.
+Se empleará GitHub para la gestión del código fuente, seguimiento de cambios, colaboración en el desarrollo y documentación del proyecto, garantizando un flujo de trabajo organizado y eficiente en el desarrollo de software y análisis de datos.
 <br>
 <br>
 <strong>2. Google Drive</strong>
-<br>-Uso en el Proyecto: Será utilizado para la colaboración en equipo, la gestión de documentos, presentaciones, facilitando la comunicación y el trabajo coordinado entre los miembros del equipo.
+<br>
+Será utilizado para la colaboración en equipo, la gestión de documentos, presentaciones, facilitando la comunicación y el trabajo coordinado entre los miembros del equipo.
 <br>
 <br>
 <strong>3. Google Sheets</strong>
