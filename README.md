@@ -71,6 +71,16 @@ En esta instancia <strong>realizamos un proceso de ETL (Extracción, Transformac
 
 
 <h1>EDA</h1>
+Para este proyecto realizamos un EDA (Análisis Exploratorio de los datos) que nos permitió entre otras cosas:
+<ul>
+  <br>
+  <li><strong>Verificar la existencia de valores nulos</strong></li>
+  <li><strong>Verificar la existencia</strong>de <strong>valores duplicados</strong></li>
+  <li><strong>Verificar la existencia</strong>de <strong>valores outliers</strong></li>
+  <li><strong>Crear gráficos</strong>de <strong>para representar los datos obtenidos</strong></li>
+</ul>
+<br>
+Algunos de los gráficos representados son los siguientes:
 
 <h1>KPI'S</h1>
 Teniendo en cuenta los objetivos planteados proponemos los siguientes KPI’s:
