@@ -7,7 +7,7 @@
 </p>
 
 <h1>Herramientas  y Tecnologias</h1>
-Este proyecto de <strong>Data Data Science</strong> fue creado utilizando librerías de <strong>Python</strong> para el EDA (Análisis exploratorio de los datos) y <strong>Power BI</strong>  para la creación del dashboard.
+Para este proyecto de <strong>Data Data Science</strong> utilizamos las siguientes <strong>herramientas</strong>: 
 <br>
 <strong>1. Github</strong>
 <br>
