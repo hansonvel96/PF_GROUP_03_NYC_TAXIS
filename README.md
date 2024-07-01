@@ -12,7 +12,7 @@ Para este proyecto de <strong>Data Data Science</strong> utilizamos las siguient
 <br>
 <strong>1. Github</strong>
 <br>
-Se empleará GitHub para la gestión del código fuente, seguimiento de cambios, colaboración en el desarrollo y documentación del proyecto, garantizando un flujo de trabajo organizado y eficiente en el desarrollo de software y análisis de datos.
+Se empleará GitHub para la <strong>gestión del código fuente, seguimiento de cambios, colaboración en el desarrollo y documentación del proyecto,</strong> garantizando un flujo de trabajo organizado y eficiente en el desarrollo de software y análisis de datos.
 <br>
 <br>
 <strong>2. Google Drive</strong>
