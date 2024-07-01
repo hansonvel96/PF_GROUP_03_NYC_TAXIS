@@ -17,7 +17,7 @@ Se empleará GitHub para la <strong>gestión del código fuente, seguimiento de 
 <br>
 <strong>2. Google Drive</strong>
 <br>
-Será utilizado para la colaboración en equipo, la gestión de documentos, presentaciones, facilitando la comunicación y el trabajo coordinado entre los miembros del equipo.
+Será utilizado para la colaboración en equipo, <strong>la gestión de documentos, presentaciones</strong>, facilitando la comunicación y el trabajo coordinado entre los miembros del equipo.
 <br>
 <br>
 <strong>3. Python</strong>
