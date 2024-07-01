@@ -95,7 +95,15 @@ En este gráfico podemos observar <strong>Manhattan es el distrito con màs viaj
   <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/blob/main/Imagenes/historico-taxis.png" height="350" width="auto" alt="Imagen">
 </p>
 En este gráfico podemos observar que en lo que fue <strong>Enero de 2024</strong>, los taxis verdes tuvieron una gran amplitud en lo que respecta al número de viajes, ubicandose <strong>la menor cantidad de viajes en torno a los 1000 en un día</strong> y llegando a un <strong>pico máximo de 2220 viajes en otro día</strong>. Es decir, en un día se realizaron el doble de viajes de lo que fue el peor día.
-
+<br>
+<br>
+<ins>Duración promedio de taxis verdes</ins>
+<p align="center">
+  <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/blob/main/Imagenes/duracion.png" height="350" width="auto" alt="Imagen">
+</p>
+En este gráfico podemos observar que la duración de los viajes en taxis verdes en Enero de 2024 tiene una gran amplitud. <strong>El viaje con menos duración ronda los 13.7 minutos, mientras que el viaje con mayor duración es de aproximadamente 23.3 minutos.</strong>
+<br>
+<br>
 <h1>KPI'S</h1>
 Teniendo en cuenta los objetivos planteados proponemos los siguientes KPI’s:
 <ul>
