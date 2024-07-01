@@ -22,21 +22,21 @@ Será utilizado para la colaboración en equipo, la gestión de documentos, pres
 <br>
 <strong>3. Python</strong>
 <br>
-Será utilizado para analizar grandes conjuntos de datos de tráfico, calidad del aire y sonora, aprovechando librerías como Pandas para la manipulación y análisis de datos estructurados, y Scikit-learn para el desarrollo de modelos de machine learning. Python nos permitirá procesar y analizar eficientemente los datos, así como desarrollar algoritmos predictivos y de clasificación necesarios para entender las dinámicas del tráfico y su impacto ambiental.
+Será utilizado para analizar grandes conjuntos de datos de tráfico, calidad del aire y sonora, aprovechando <strong>librerías como Pandas</strong> para la manipulación y análisis de datos estructurados, <strong>y Scikit-learn</strong> para el desarrollo de modelos de machine learning. <strong>Python nos permitirá procesar y analizar eficientemente los datos</strong>, así como desarrollar algoritmos predictivos y de clasificación necesarios para entender las dinámicas del tráfico y su impacto ambiental.
 <br>
 <br>
 <strong>4. Google Cloud Storage</strong>
 <br>
-Cloud Storage será utilizado para almacenar de manera segura y eficiente los grandes volúmenes de datos recopilados durante el proyecto, desde datos brutos hasta resultados procesados y modelos de machine learning.
+Cloud Storage <strong>será utilizado para almacenar de manera segura y eficiente los grandes volúmenes de datos recopilados durante el proyecto</strong>, desde datos brutos hasta resultados procesados y modelos de machine learning.
 <br>
 <br>
 <strong>5. Google Cloud BigQuery</strong>
-<br>Será utilizado BigQuery para consolidar y analizar grandes volúmenes de datos de diferentes fuentes. Su capacidad para manejar consultas complejas y grandes conjuntos de datos nos permitirá identificar patrones y tendencias en el tráfico.
+<br><strong>Será utilizado BigQuery para consolidar y analizar grandes volúmenes de datos de diferentes fuentes</strong>. Su capacidad para manejar consultas complejas y grandes conjuntos de datos nos permitirá identificar patrones y tendencias en el tráfico.
 <br>
 <br>
 <strong>6. Power BI </strong>
 <br>
-Se utilizará esta herramienta de visualización de datos atraves de luego de los datos luego de la carga y transformaciones previas ETL, se tiene los datos limpios, esto se traduce en  tablas y gráficas que permiten que el usuario interactúe con la información seleccionando períodos de estudio, tipologías de clientes o de productos o aquellas otras dimensiones que necesite visualizar la persona que consume la información
+Se utilizará esta herramienta <strong>para crear un dashboard interactivo </strong>que refleje el análisis de datos hecho.
 <br>
 <br>
 
