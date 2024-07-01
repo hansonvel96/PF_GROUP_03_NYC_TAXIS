@@ -3,7 +3,7 @@
 <h1 align="center">Taxis sustentables en Nueva York</h1>
 
 <p align="center">
-  <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/blob/main/Imagenes/eco-friendly.png" height="350" width="auto" alt="Imagen">
+  <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/blob/main/Imagenes/taxi.png" height="350" width="auto" alt="Imagen">
 </p>
 
 <h1>Herramientas  y Tecnologias</h1>
