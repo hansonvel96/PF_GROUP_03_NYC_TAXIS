@@ -43,7 +43,7 @@ Se utilizará esta herramienta <strong>para crear un dashboard interactivo </str
 
 <h1>Contexto</h1>
 <p align="center">
-  <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/blob/main/Imagenes/eco-friendly.png" height="350" width="auto" alt="Imagen">
+  <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/blob/main/Imagenes/taxi-sustemtable.png" height="350" width="auto" alt="Imagen">
 </p>
 
 <p>Los servicios de transporte en Nueva York, como los <strong>taxis</strong> y Uber, han <strong>revolucionado la movilidad urbana</strong>. Estas alternativas ofrecen una forma conveniente y accesible de desplazarse, transformando la percepción sobre el transporte público y el alquiler de coches.</p>
