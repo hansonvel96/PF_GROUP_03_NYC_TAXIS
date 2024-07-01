@@ -83,15 +83,18 @@ Para este proyecto realizamos un EDA (Análisis Exploratorio de los datos) que n
 <strong>Algunos de los gráficos</strong> representados son los siguientes:
 <br>
 <br>
+<u>Cantidad de viajes por distrito</u>
 <p align="center">
   <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/blob/main/Imagenes/distrito.png" height="450" width="auto" alt="Imagen">
 </p>
 En este gráfico podemos observar <strong>Manhattan es el distrito con màs viajes hechos en taxi en Nueva York</strong>, seguido de Queens y luego Brooklyn. Sorprendentemente, si analizamos los datos, vemos que Manhattan no es el distrito con mayor cantidad de habitantes (1.593.200), sino que es Brooklyn con 2.511.408 habitantes. Sin embargo, <strong>al ser el núcleo financiero de Nueva York y al ser un centro turístico muy importante genera una enorme movilidad de los ciudadanos y los turistas a través de medios como los taxis</strong>.
 <br>
 <br>
+<u>Histórico de viajes de taxis verdes</u>
 <p align="center">
   <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/blob/main/Imagenes/historico-taxis.png" height="350" width="auto" alt="Imagen">
 </p>
+En este gráfico podemos observar que en lo que fue <strong>Enero de 2024</strong>, los taxis verdes tuvieron una gran amplitud en lo que respecta al número de viajes, ubicandose <strong>la menor cantidad de viajes en torno a los 1000 en un día</strong> y llegando a un <strong>pico máximo de 2220 viajes en otro día</strong>. Es decir, en un día se realizaron el doble de viajes de lo que fue el peor día.
 
 <h1>KPI'S</h1>
 Teniendo en cuenta los objetivos planteados proponemos los siguientes KPI’s:
