@@ -63,6 +63,8 @@ Teniendo en cuenta el contexto, proponemos los siguientes objetivos a cumplir:
 
 <h1>ETL</h1>
 <br>
+En esta instancia <strong>realizamos un proceso de ETL (Extracción, Transformación y Carga) de los datos </strong>y validación de los mismos, para posteriormente generar un proceso de automatización en la nube. En este proceso de ETL <strong>se eliminaron columnas que no se iban a utilizar, se renombraron otras, y se transformaron los archivos a la extensión .parquet</strong> para poder ser disponibilizados en la nube.
+
 
 <h1>EDA</h1>
 
