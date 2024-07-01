@@ -9,6 +9,7 @@
 <h1>Herramientas  y Tecnologias</h1>
 Para este proyecto de <strong>Data Data Science</strong> utilizamos las siguientes <strong>herramientas</strong>: 
 <br>
+<br>
 <strong>1. Github</strong>
 <br>
 Se empleará GitHub para la gestión del código fuente, seguimiento de cambios, colaboración en el desarrollo y documentación del proyecto, garantizando un flujo de trabajo organizado y eficiente en el desarrollo de software y análisis de datos.
