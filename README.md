@@ -84,6 +84,7 @@ Para este proyecto realizamos un EDA (Análisis Exploratorio de los datos) que n
 <br>
 <br>
 <ins>Cantidad de viajes por distrito</ins>
+<br>
 <p align="center">
   <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/blob/main/Imagenes/distrito.png" height="450" width="auto" alt="Imagen">
 </p>
@@ -91,6 +92,7 @@ En este gráfico podemos observar <strong>Manhattan es el distrito con màs viaj
 <br>
 <br>
 <ins>Histórico de viajes de taxis verdes</ins>
+<br>
 <p align="center">
   <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/blob/main/Imagenes/historico-taxis.png" height="350" width="auto" alt="Imagen">
 </p>
@@ -98,6 +100,7 @@ En este gráfico podemos observar que en lo que fue <strong>Enero de 2024</stron
 <br>
 <br>
 <ins>Duración promedio por viaje de taxis verdes</ins>
+<br>
 <p align="center">
   <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/blob/main/Imagenes/duracion.png" height="350" width="auto" alt="Imagen">
 </p>
