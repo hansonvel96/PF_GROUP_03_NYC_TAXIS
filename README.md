@@ -108,8 +108,10 @@ En este gráfico podemos observar que la duración de los viajes en taxis verdes
 Teniendo en cuenta los objetivos planteados proponemos los siguientes KPI’s:
 <ul>
   <br>
-  <li><strong>Reducción de un 5% en la Emisión de CO2</strong>por Kilómetro Recorrido para el último año que el cliente solicita para ayudar a la toma de decisiones.</li>
-  <li><strong>Disminución de un 4% en la Duración de los Viajes</strong>, con la utilización de vehículos eléctricos VS vehículos a combustión para lo que va de año</li>
+  <li><strong>Aumento de un 5% del uso de los taxis verdes</strong> con <strong>respecto al último semestre.</strong></li>
+  <br>
+  <li><strong>Reducción de un 5% en la Emisión de CO2</strong> por Kilómetro Recorrido para el último año que el cliente solicita para ayudar a la toma de decisiones.</li>
+  <br>
   <li><strong>Reducción en un 2% los Niveles de Contaminación Sonora </strong>por zona para el total de viajes realizados el último semestre, con la utilización de vehículos eléctricos VS vehículos a combustión para lo que va de año</li>
 </ul>
 
