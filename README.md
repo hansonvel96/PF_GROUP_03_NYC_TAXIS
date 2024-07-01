@@ -20,31 +20,21 @@ Se empleará GitHub para la gestión del código fuente, seguimiento de cambios,
 Será utilizado para la colaboración en equipo, la gestión de documentos, presentaciones, facilitando la comunicación y el trabajo coordinado entre los miembros del equipo.
 <br>
 <br>
-<strong>3. Google Sheets</strong>
-<br>
-Será utilizado para la recopilación y análisis colaborativo de datos financieros y operativos. Su integración con otras herramientas de Google Cloud facilitará la manipulación y visualización de datos, permitiendo compartir resultados y análisis en tiempo real con el equipo y los stakeholders.
-<br>
-<br>
-<strong>4. Python</strong>
+<strong>3. Python</strong>
 <br>
 Será utilizado para analizar grandes conjuntos de datos de tráfico, calidad del aire y sonora, aprovechando librerías como Pandas para la manipulación y análisis de datos estructurados, y Scikit-learn para el desarrollo de modelos de machine learning. Python nos permitirá procesar y analizar eficientemente los datos, así como desarrollar algoritmos predictivos y de clasificación necesarios para entender las dinámicas del tráfico y su impacto ambiental.
 <br>
 <br>
-<strong>5. Google Cloud Storage</strong>
+<strong>4. Google Cloud Storage</strong>
 <br>
 Cloud Storage será utilizado para almacenar de manera segura y eficiente los grandes volúmenes de datos recopilados durante el proyecto, desde datos brutos hasta resultados procesados y modelos de machine learning.
 <br>
 <br>
-<strong>6. Google Cloud BigQuery</strong>
+<strong>5. Google Cloud BigQuery</strong>
 <br>Será utilizado BigQuery para consolidar y analizar grandes volúmenes de datos de diferentes fuentes. Su capacidad para manejar consultas complejas y grandes conjuntos de datos nos permitirá identificar patrones y tendencias en el tráfico.
 <br>
 <br>
-<strong>7. Visual Studio Code </strong>
-<br>
-Se utilizará esta herramienta de Editor de Codigo ya que soporta muchos lenguajes el principal que utilizaremos Phyton para el tema de codificación para todo el proyectó en general.
-<br>
-<br>
-<strong>8. Power BI </strong>
+<strong>6. Power BI </strong>
 <br>
 Se utilizará esta herramienta de visualización de datos atraves de luego de los datos luego de la carga y transformaciones previas ETL, se tiene los datos limpios, esto se traduce en  tablas y gráficas que permiten que el usuario interactúe con la información seleccionando períodos de estudio, tipologías de clientes o de productos o aquellas otras dimensiones que necesite visualizar la persona que consume la información
 <br>
