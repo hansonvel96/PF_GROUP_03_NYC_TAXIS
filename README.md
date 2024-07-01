@@ -42,6 +42,10 @@ Se utilizará esta herramienta <strong>para crear un dashboard interactivo </str
 
 
 <h1>Contexto</h1>
+<p align="center">
+  <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/blob/main/Imagenes/eco-friendly.png" height="350" width="auto" alt="Imagen">
+</p>
+
 <p>Los servicios de transporte en Nueva York, como los <strong>taxis</strong> y Uber, han <strong>revolucionado la movilidad urbana</strong>. Estas alternativas ofrecen una forma conveniente y accesible de desplazarse, transformando la percepción sobre el transporte público y el alquiler de coches.</p>
 
 <p><strong>El problema del cambio climático</strong>, provocado en gran medida por el uso de energías provenientes de combustibles fósiles en los vehículos, <strong>ha alcanzado niveles críticos</strong>. Las compañías se ven instadas a actuar frente a estos desafíos ambientales, lo que implica la necesidad de medir y mejorar los niveles de consumo y generación energética. <strong>Esta conciencia conduce a la búsqueda de soluciones</strong> para mitigar dicho impacto en el medio ambiente.</p>
