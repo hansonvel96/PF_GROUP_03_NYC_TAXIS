@@ -19,7 +19,6 @@ Se empleará GitHub para la gestión del código fuente, seguimiento de cambios,
 <br>
 Será utilizado para la colaboración en equipo, la gestión de documentos, presentaciones, facilitando la comunicación y el trabajo coordinado entre los miembros del equipo.
 <br>
-<br>
 <strong>3. Google Sheets</strong>
 <br>
 <br>-Uso en el Proyecto: Será utilizado para la recopilación y análisis colaborativo de datos financieros y operativos. Su integración con otras herramientas de Google Cloud facilitará la manipulación y visualización de datos, permitiendo compartir resultados y análisis en tiempo real con el equipo y los stakeholders.
