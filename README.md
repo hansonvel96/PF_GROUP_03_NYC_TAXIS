@@ -80,12 +80,14 @@ Para este proyecto realizamos un EDA (Análisis Exploratorio de los datos) que n
   <li><strong>Crear gráficos</strong> de <strong>para representar los datos obtenidos</strong></li>
 </ul>
 <br>
-Algunos de los gráficos representados son los siguientes:
+<strong>Algunos de los gráficos</strong> representados son los siguientes:
+<br>
 <br>
 <p align="center">
-  <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/blob/main/Imagenes/distrito.png" height="350" width="auto" alt="Imagen">
+  <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/blob/main/Imagenes/distrito.png" height="450" width="auto" alt="Imagen">
 </p>
 En este gráfico podemos observar <strong>Manhattan es el distrito con màs viajes hechos en taxi en Nueva York</strong>, seguido de Queens y luego Brooklyn. Sorprendentemente, si analizamos los datos, vemos que Manhattan no es el distrito con mayor cantidad de habitantes (1.593.200), sino que es Brooklyn con 2.511.408 habitantes. Sin embargo, <strong>al ser el núcleo financiero de Nueva York y al ser un centro turístico muy importante genera una enorme movilidad de los ciudadanos y los turistas a través de medios como los taxis</strong>.
+<br>
 <br>
 <p align="center">
   <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/blob/main/Imagenes/historico-taxis.png" height="350" width="auto" alt="Imagen">
