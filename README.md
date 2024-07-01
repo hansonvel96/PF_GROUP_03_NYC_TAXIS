@@ -56,6 +56,9 @@ Se utilizará esta herramienta <strong>para crear un dashboard interactivo </str
 <br>
 
 <h1>Objetivos</h1>
+<p align="center">
+  <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/blob/main/Imagenes/objetivos.png" height="350" width="auto" alt="Imagen">
+</p>
 Teniendo en cuenta el contexto, proponemos los siguientes objetivos a cumplir:
 <ul>
   <br>
