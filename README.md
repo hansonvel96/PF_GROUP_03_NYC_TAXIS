@@ -7,7 +7,7 @@
 </p>
 
 <h1>Herramientas  y Tecnologias</h1>
-Para este proyecto de <strong>Data Data Science</strong> utilizamos las siguientes <strong>herramientas</strong>: 
+Para este proyecto de <strong>Data Science</strong> utilizamos las siguientes <strong>herramientas</strong>: 
 <br>
 <br>
 <strong>1. Github</strong>
