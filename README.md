@@ -111,7 +111,7 @@ En este gráfico podemos observar que la duración de los viajes en taxis verdes
 <br>
 <br>
 <h1>KPI'S</h1>
-Teniendo en cuenta los objetivos planteados proponemos los siguientes KPI’s:
+Teniendo en cuenta los objetivos planteados <strong>proponemos los siguientes KPI’s</strong>:
 <ul>
   <br>
   <li><strong>Aumento de un 5% del uso de los taxis verdes</strong> con <strong>respecto al último semestre.</strong></li>
