@@ -128,7 +128,7 @@ Teniendo en cuenta los objetivos planteados <strong>proponemos los siguientes KP
 Teniendo en cuenta los objetivos planteados <strong>creamos 3 modelos de Machine Learning</strong>:
 <ul>
   <br>
-  <li><strong>Modelo que recomienda 5 modelos de Automóviles a combustión</strong> de una marca especifica que produzcan menos contaminación</li>
+  <li><strong>Modelo que recomienda 5 modelos de automóviles a combustión</strong> de una marca especifica que produzcan menos contaminación</li>
   <br>
   <li><strong>Modelo que recomienda 5 modelos de automóviles eléctricos</strong> de una marca especifica que tengan la mejor eficiencia y autonomia</li>
   <br>
