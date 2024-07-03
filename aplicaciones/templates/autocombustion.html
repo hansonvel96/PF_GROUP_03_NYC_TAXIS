@@ -1,0 +1,24 @@
+{% extends "index.html" %}
+
+{% block mainContent %}
+  <div class="container mt-4">
+    <h1>Recomendación de Autos a Combustión</h1>
+    <form class="container" action="{{url_for('resultado_autocombustion')}}" method="POST">
+        <label for="fabricante">Ingrese el fabricante:</label>
+        <input type="text" id="fabricante" name="fabricante" required>
+        <button type="submit" class="btn btn-primary">Enviar</button>
+        
+        <div class="row mt-4">
+            <div class="col-lg-12">
+                <textarea class="form-control form-control-lg w-100" rows="8" placeholder="Resultado">{{ fabricante_aux }}</textarea>
+            </div>            
+            <div id="resultados" class="mt-3">
+                {% if recomendaciones %}
+                    <h2>Recomendaciones:</h2>
+                    <pre>{{ recomendaciones }}</pre>
+                {% endif %}
+            </div>
+        </div>
+    </form>
+  </div>
+{% endblock %}
