@@ -9,14 +9,21 @@
   <!-- Estilo personalizado -->
   <style>
     body {
-      background-color: #26c0d4;
+      background-image: url('https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/blob/Alan-Gonz%C3%A1lez/aplicaciones/templates/images/panel.jpg?raw=true');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
     }
   </style>
 </head>
 <body>
   <nav class="navbar navbar-expand-lg bg-body-tertiary">
     <div class="container-fluid">
-      <a class="navbar-brand" href="/">DataSolutions</a>
+      <a class="navbar-brand" href="/">
+        <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/blob/Alan-Gonz%C3%A1lez/aplicaciones/templates/images/logo.png?raw=true" 
+        alt="Logo" class="img-fluid" style="height: 40px;">
+      </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -29,10 +36,9 @@
       </div>
     </div>
   </nav>
-  
+
   {% block mainContent %}
     <h1>Bienvenido</h1>
-    <img src="logo.jpg" alt="">
   {% endblock %}
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
