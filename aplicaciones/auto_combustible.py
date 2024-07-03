@@ -23,7 +23,7 @@ modelo.fit(X, y)
 def recomendacionAuto(fabricante):
     Fabricante_dummie = 'Fabricante_' + fabricante
     if not Fabricante_dummie in df_combustion.columns:
-        return 
+        return 'No hay nada'
     df_fabricante = df_combustion[df_combustion[Fabricante_dummie] == 1].copy()
 
     modelos_autos = df_fabricante['Modelo']
