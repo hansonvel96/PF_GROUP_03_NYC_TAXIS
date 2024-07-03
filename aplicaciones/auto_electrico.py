@@ -6,7 +6,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.linear_model import LinearRegression
 
 # Cargar un archivo Parquet
-df = pd.read_parquet(r'C:\Users\Alañ\Pictures\prueba\Datasets\nuevos\autos_electricos.parquet')
+df = pd.read_parquet(r'C:\Users\Alañ\Documents\Henry\Proyecto 1\Proyecto Final\PF_GROUP_03_NYC_TAXIS\Datasets\nuevos\autos_electrico.parquet')
 
 # Separar características y variable objetivo
 X = df.drop(columns=['Eficiencia', 'CargaRapidaRapida'])
