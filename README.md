@@ -136,5 +136,10 @@ Teniendo en cuenta los objetivos planteados <strong>creamos 3 modelos de Machine
 </ul>
 <h1>Dashboard</h1>
 <br>
+Teniendo en cuenta los objetivos planteados <strong>propusimos el siguiente dashboard</strong>:
+<br>
+<p align="center">
+  <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/blob/main/Imagenes/logo.png" height="500" width="auto" alt="Imagen">
+</p>
 
 <h1>Conclusiones</h1>
