@@ -144,4 +144,19 @@ Teniendo en cuenta los objetivos planteados <strong>propusimos el siguiente dash
   <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/blob/main/Imagenes/logo.png" height="500" width="auto" alt="Imagen">
 </p>
 
-<h1>Conclusiones</h1>
+<h1>Observaciones finales</h1>
+<br>
+<br>
+En base a los datos recopilados llegamos a las siguientes <strong>observaciones finales</strong>:
+<ul>
+  <br>
+  <li><strong>Los taxis amarillos generan altos niveles de contaminación por C02 a diferencia de los taxis verdes</strong>, cuya contaminación en este nivel es nula.</li>
+  <br>
+  <li><strong>Manhattan es el distrito con más cantidad de viajes hechos</strong>, llegando a los 46 millones de viajes por año, muy por encima de Queens que es el segundo con 5 millones.</li>
+  <br>
+  <li><strong>Brooklyn es el distrito con más contaminación medioambiental y Manhattanes el distrito con más contaminación sonora</strong>.</li>
+  <br>
+  <li><strong>Chevrolet y GMC</strong> son las marcas de autos más contaminantes.</li>
+  <br>
+  <li><strong>Los modelos Silverado 4WD y Sierra 4WD son los autos que más C02 producen</strong></li>
+</ul>
