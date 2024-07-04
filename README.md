@@ -169,3 +169,5 @@ En base a los datos recopilados llegamos a las siguientes <strong>observaciones 
 <br>
 <h1>Integrantes</h1>
 <br>
+[![Agusto](https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/raw/main/Imagenes/agusto.png)](https://www.linkedin.com/in/linkedin1)
+
