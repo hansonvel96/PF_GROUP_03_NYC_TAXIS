@@ -110,6 +110,9 @@ En este gráfico podemos observar que en lo que fue <strong>Enero de 2024</stron
 En este gráfico podemos observar que la duración de los viajes en taxis verdes en Enero de 2024 tiene una gran amplitud. <strong>El viaje con menos duración ronda los 13.7 minutos, mientras que el viaje con mayor duración es de aproximadamente 23.3 minutos.</strong>
 <br>
 <br>
+<h1>Pipeline</h1>
+Para este proyecto realizamos el siguiente Pipeline teniendo en cuenta el <strong>ciclo de vida del dato: </strong>
+<br>
 <h1>KPI'S</h1>
 Teniendo en cuenta los objetivos planteados <strong>proponemos los siguientes KPI’s</strong>:
 <ul>
