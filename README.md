@@ -177,6 +177,15 @@ En base a los datos recopilados llegamos a las siguientes <strong>observaciones 
         </a>
     </div>
 </div>
+<div style="text-align: center;">
+    <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/raw/main/Imagenes/agusto.png" alt="agusto" style="width: 150px; height: 200px; border-radius: 50%; margin-bottom: 10px;">
+    <div style="text-align: center;">
+        <a href="https://www.linkedin.com/in/linkedin1">
+            <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/raw/main/Imagenes/linkedin.png" alt="LinkedIn" style="width: 80px; height: 50px;">
+        </a>
+    </div>
+</div>
+
 
 
 
