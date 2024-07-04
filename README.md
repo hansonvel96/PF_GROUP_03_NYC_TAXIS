@@ -112,6 +112,9 @@ En este gráfico podemos observar que la duración de los viajes en taxis verdes
 <br>
 <h1>Pipeline</h1>
 Para este proyecto realizamos el siguiente Pipeline teniendo en cuenta el <strong>ciclo de vida del dato: </strong>
+<p align="center">
+  <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/blob/main/Imagenes/pipeline.png" height="450" width="auto" alt="Imagen">
+</p>
 <br>
 <h1>KPI'S</h1>
 Teniendo en cuenta los objetivos planteados <strong>proponemos los siguientes KPI’s</strong>:
