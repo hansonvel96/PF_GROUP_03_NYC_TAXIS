@@ -169,7 +169,15 @@ En base a los datos recopilados llegamos a las siguientes <strong>observaciones 
 <br>
 <h1>Integrantes</h1>
 <br>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 20px;">
+    <div style="text-align: center;">
+        <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/raw/main/Imagenes/agusto.png" alt="agusto" style="width: 150px; height: 200px; border-radius: 50%;">
+        <div style="margin-top: 10px;">
+            <a href="https://www.linkedin.com/in/linkedin1">
+                <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/raw/main/Imagenes/linkedin.png" alt="LinkedIn" style="width: 80px; height: 50px;">
+            </a>
+        </div>
+    </div>
     <div style="text-align: center;">
         <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/raw/main/Imagenes/agusto.png" alt="agusto" style="width: 150px; height: 200px; border-radius: 50%;">
         <div style="margin-top: 10px;">
