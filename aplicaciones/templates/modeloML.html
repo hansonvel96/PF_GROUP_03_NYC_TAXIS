@@ -1,0 +1,23 @@
+{% extends "index.html" %}
+
+{% block mainContent %}
+<div class="container mt-5">
+  <div class="row justify-content-center">
+    <div class="col-md-6 text-center">
+      <h1>Estas son las consultas que puede realizar</h1>
+    </div>
+  </div>
+  <div class="row justify-content-center mt-3">
+    <div class="col-md-4">
+      <div class="p-4 bg-light border rounded">
+        <div class="btn-group-vertical w-100" role="group" aria-label="Vertical button group">
+          <a href="TercerModelo" class="btn btn-primary mb-3">Tercer Modelo</a>
+          <a href="AutoCombustion" class="btn btn-primary mb-3">Recomendación de Autos a Combustión</a>
+          <a href="AutoElectrico" class="btn btn-primary mb-3">Recomendación de Autos Eléctricos</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
+
