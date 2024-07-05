@@ -148,7 +148,7 @@ Teniendo en cuenta los objetivos planteados <strong>propusimos el siguiente dash
 <br>
 <br>
 <p align="center">
-  <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/blob/main/Imagenes/logo.png" height="500" width="auto" alt="Imagen">
+  <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/blob/main/Imagenes/logo.png" height="450" width="auto" alt="Imagen">
 </p>
 <br>
 <h1>Observaciones finales</h1>
