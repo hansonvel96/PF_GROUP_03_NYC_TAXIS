@@ -188,8 +188,7 @@ En base a los datos recopilados llegamos a las siguientes <strong>observaciones 
         
         
        
-       
-    </div>
+     
     
 </div>
 
