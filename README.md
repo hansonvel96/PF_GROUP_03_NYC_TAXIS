@@ -140,6 +140,7 @@ Teniendo en cuenta los objetivos planteados <strong>creamos 3 modelos de Machine
   <br>
   <li><strong>Modelo que predice la cantidad de viajes de taxis por hora y localización </strong> utilizando Random forest.</li>
 </ul>
+<br>
 <h1>Dashboard</h1>
 <br>
 Teniendo en cuenta los objetivos planteados <strong>propusimos el siguiente dashboard</strong>:
@@ -149,7 +150,7 @@ Teniendo en cuenta los objetivos planteados <strong>propusimos el siguiente dash
 <p align="center">
   <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/blob/main/Imagenes/logo.png" height="500" width="auto" alt="Imagen">
 </p>
-
+<br>
 <h1>Observaciones finales</h1>
 <br>
 <br>
