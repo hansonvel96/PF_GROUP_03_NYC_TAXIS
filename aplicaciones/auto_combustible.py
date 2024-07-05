@@ -23,7 +23,7 @@ modelo.fit(X, y)
 def recomendacionAuto(fabricante):
     Fabricante_dummie = 'Fabricante_' + fabricante
     if not Fabricante_dummie in df_combustion.columns:
-        return 'No hay nada'
+        return f'No tenemos modelos del fabricnate {fabricante}.'
     df_fabricante = df_combustion[df_combustion[Fabricante_dummie] == 1].copy()
 
     modelos_autos = df_fabricante['Modelo']
@@ -50,8 +50,9 @@ def recomendacionAuto(fabricante):
     recomendaciones_modelo = modelos_final.head(5)['Modelo'].tolist()
     recomendaciones_anio = modelos_final.head(5)['AnoModelo'].tolist()
     recomendaciones_combustible = modelos_final.head(5)['Combustible'].tolist()
-    
-    recomendaciones = 'Estas son modelos de autos que nosotros recomendamos para la marca ' + str(fabricante) + ' que tienen un menor impacto ambiental.\n'
-    for i in range(0, len(recomendaciones_modelo)):
-        recomendaciones += 'Modelo ' + str(i+1) + ': ' + str(recomendaciones_modelo[i]) + ' del año ' + str(recomendaciones_anio[i]) + ', Combustible: ' + str(recomendaciones_combustible[i]) + '\n'
+
+    recomendaciones = f"Estas son algunos modelos recomendados de {fabricante} con menor impacto ambiental:\n"
+    for i, (modelo_auto, anio, combustible) in enumerate(zip(recomendaciones_modelo, recomendaciones_anio, recomendaciones_combustible), start=1):
+        recomendaciones += f"Modelo {i}: {modelo_auto},\nAño: {anio},\nCombustible: {combustible}.\n\n"
+
     return recomendaciones

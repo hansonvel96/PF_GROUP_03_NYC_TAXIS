@@ -2,6 +2,7 @@ from flask import Flask, render_template, request, session, redirect, url_for, r
 from flask_session import Session
 from auto_combustible import recomendacionAuto
 from auto_electrico import recomendar_modelos
+from cantidad_viajes import predict_taxi_trips
 
 app = Flask(__name__)
 
@@ -18,13 +19,29 @@ def main():
 def modeloML():
     return render_template('modeloML.html')
 
-@app.route('/TercerModelo', methods =['GET', 'POST'])
-def tercermodelo():
-    return render_template('tercermodelo.html')
+# Rutas en Flask
+@app.route('/CantidadViajes', methods=['GET', 'POST'])
+def cantidad_viajes():
+    if request.method == 'POST':
+        distrito_subida = request.form.get('distrito_subida')
+        hora = int(request.form.get('hora'))
+        dia_semana = int(request.form.get('dia_semana'))
 
-@app.route('/resultadoTercerModelo', methods=['POST'])
-def resultado_tercermodelo():
-    return render_template('tercermodelo.html')
+        # Realizar la predicción de cantidad de viajes
+        cantidad_predicha = predict_taxi_trips(distrito_subida, hora, dia_semana)
+
+        # Renderizar la plantilla con el resultado
+        return render_template('cantidadviajes.html', cantidad_predicha=cantidad_predicha)
+    else:
+        return render_template('cantidadviajes.html')
+
+@app.route('/resultadoCantidadViajes', methods=['POST'])
+def resultado_cantidad_viajes():
+    distrito_subida = request.form.get('distrito_subida')
+    hora = int(request.form.get('hora'))
+    dia_semana = int(request.form.get('dia_semana'))
+    cantidad_predicha = predict_taxi_trips(distrito_subida, hora, dia_semana)
+    return render_template('cantidadviajes.html', cantidad_aux=cantidad_predicha)
 
 @app.route('/AutoCombustion', methods =['GET', 'POST'])
 def autocombustion():

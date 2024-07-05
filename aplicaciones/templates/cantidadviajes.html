@@ -1,0 +1,30 @@
+{% extends "index.html" %}
+
+{% block mainContent %}
+  <div class="container mt-4">
+    <h1>Predicción de Cantidad de Viajes en Taxi</h1>
+    <form class="container" action="{{ url_for('resultado_cantidad_viajes') }}" method="POST">
+        <div class="row mb-3">
+            <div class="col-sm-4">
+                <label for="distrito_subida" class="form-label">Distrito de Subida:</label>
+                <input type="text" id="distrito_subida" name="distrito_subida" class="form-control" required>
+            </div>
+            <div class="col-sm-4">
+                <label for="hora" class="form-label">Hora del día (0-23):</label>
+                <input type="number" id="hora" name="hora" class="form-control" min="0" max="23" required>
+            </div>
+            <div class="col-sm-4">
+                <label for="dia_semana" class="form-label">Día de la semana (1-7):</label>
+                <input type="number" id="dia_semana" name="dia_semana" class="form-control" min="1" max="7" required>
+            </div>
+        </div>
+        <button type="submit" class="btn btn-primary">Enviar</button>
+        
+        <div class="row mt-4">
+            <div class="col-lg-12">
+                <textarea class="form-control form-control-lg w-100" rows="8" placeholder="Resultado">{{ cantidad_aux }}</textarea>
+            </div>            
+        </div>
+    </form>
+  </div>
+{% endblock %}
