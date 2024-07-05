@@ -173,44 +173,21 @@ En base a los datos recopilados llegamos a las siguientes <strong>observaciones 
     <div style="text-align: center;">
         <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/raw/main/Imagenes/agusto.png" alt="agusto" style="width: 150px; height: 200px; border-radius: 50%;">
         <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/raw/main/Imagenes/agusto.png" alt="agusto" style="width: 150px; height: 200px; border-radius: 50%;">
+        <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/raw/main/Imagenes/agusto.png" alt="agusto" style="width: 150px; height: 200px; border-radius: 50%;">
+        <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/raw/main/Imagenes/agusto.png" alt="agusto" style="width: 150px; height: 200px; border-radius: 50%;">
+        <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/raw/main/Imagenes/agusto.png" alt="agusto" style="width: 150px; height: 200px; border-radius: 50%;">
         <div style="margin-top: 10px;">
             <a href="https://www.linkedin.com/in/linkedin1">
                 <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/raw/main/Imagenes/linkedin.png" alt="LinkedIn" style="width: 80px; height: 50px;">
             </a>
         </div>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/raw/main/Imagenes/agusto.png" alt="agusto" style="width: 150px; height: 200px; border-radius: 50%;">
-        <div style="margin-top: 10px;">
-            <a href="https://www.linkedin.com/in/linkedin2">
+       <div style="margin-top: 10px;">
+            <a href="https://www.linkedin.com/in/linkedin1">
                 <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/raw/main/Imagenes/linkedin.png" alt="LinkedIn" style="width: 80px; height: 50px;">
             </a>
         </div>
     </div>
-    <div style="text-align: center;">
-        <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/raw/main/Imagenes/agusto.png" alt="agusto" style="width: 150px; height: 200px; border-radius: 50%;">
-        <div style="margin-top: 10px;">
-            <a href="https://www.linkedin.com/in/linkedin3">
-                <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/raw/main/Imagenes/linkedin.png" alt="LinkedIn" style="width: 80px; height: 50px;">
-            </a>
-        </div>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/raw/main/Imagenes/agusto.png" alt="agusto" style="width: 150px; height: 200px; border-radius: 50%;">
-        <div style="margin-top: 10px;">
-            <a href="https://www.linkedin.com/in/linkedin4">
-                <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/raw/main/Imagenes/linkedin.png" alt="LinkedIn" style="width: 80px; height: 50px;">
-            </a>
-        </div>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/raw/main/Imagenes/agusto.png" alt="agusto" style="width: 150px; height: 200px; border-radius: 50%;">
-        <div style="margin-top: 10px;">
-            <a href="https://www.linkedin.com/in/linkedin5">
-                <img src="https://github.com/hansonvel96/PF_GROUP_03_NYC_TAXIS/raw/main/Imagenes/linkedin.png" alt="LinkedIn" style="width: 80px; height: 50px;">
-            </a>
-        </div>
-    </div>
+    
 </div>
 
 
