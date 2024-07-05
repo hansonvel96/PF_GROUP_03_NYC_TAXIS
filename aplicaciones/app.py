@@ -48,10 +48,10 @@ def autocombustion():
     if request.method == 'POST':
         fabricante = request.form.get('fabricante')
         session['recomendaciones'] = recomendacionAuto(fabricante)
-        return render_template('autoCombustion.html', recomendaciones=session['recomendaciones'])
+        return render_template('autocombustion.html', recomendaciones=session['recomendaciones'])
     else:
         session.pop('recomendaciones', None)  # Limpiar recomendaciones al cargar la página
-        return render_template('autoCombustion.html')
+        return render_template('autocombustion.html')
 
 @app.route('/resultadoAutoCombustion', methods=['POST'])
 def resultado_autocombustion():
