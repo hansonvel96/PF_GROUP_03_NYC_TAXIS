@@ -6,7 +6,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.linear_model import LinearRegression
 
 # Cargar un archivo Parquet
-df = pd.read_parquet('Datasets/nuevos/autos_electricos.parquet')
+df = pd.read_parquet(r'Datasets/nuevos/autos_electricos.parquet')
 df['Marca'].str.strip()
 
 
