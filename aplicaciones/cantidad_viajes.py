@@ -4,7 +4,7 @@ from sklearn.preprocessing import LabelEncoder
 
 def predict_taxi_trips(distrito_subida, hora, dia_semana):
     # Cargar el modelo guardado
-    model = joblib.load("../aplicaciones/rf_green_model_2024_07_05.pkl")
+    model = joblib.load("aplicaciones/rf_green_model_2024_07_05.pkl")
 
     # Inicializar y ajustar el LabelEncoder
     label_encoder = LabelEncoder()
