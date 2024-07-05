@@ -1,8 +1,8 @@
 from flask import Flask, render_template, request, session, redirect, url_for, request
 from flask_session import Session
-from auto_combustible import recomendacionAuto
-from auto_electrico import recomendar_modelos
-from cantidad_viajes import predict_taxi_trips
+from aplicaciones.auto_combustible import recomendacionAuto
+from aplicaciones.auto_electrico import recomendar_modelos
+from aplicaciones.cantidad_viajes import predict_taxi_trips
 
 app = Flask(__name__)
 
