@@ -63,10 +63,10 @@ def autoelectrico():
     if request.method == 'POST':
         marca = request.form.get('marca')
         session['recomendaciones'] = recomendar_modelos(marca)
-        return render_template('autoElectrico.html', recomendaciones=session['recomendaciones'])
+        return render_template('autoelectrico.html', recomendaciones=session['recomendaciones'])
     else:
         session.pop('recomendaciones', None)  # Limpiar recomendaciones al cargar la página
-        return render_template('autoElectrico.html')
+        return render_template('autoelectrico.html')
 
 @app.route('/resultadoAutoElectrico', methods=['POST'])
 def resultado_autoelectrico():
