@@ -3,7 +3,8 @@ import numpy as np
 from sklearn.linear_model import LogisticRegression
 
 # Procesamiento de datos y entrenamiento del modelo
-df = pd.read_parquet(r'..\Datasets\nuevos\autos_combustion.parquet')
+df = pd.read_parquet(r'Datasets\nuevos\autos_combustion.parquet')
+
 
 df_combustion = df.copy()
 df_combustion.drop(columns=['EconomiaCombustibleCiudad','EconomiaCombustibleCarretera', 'EconomiaCombustibleCombinada','TipoTransmision',
