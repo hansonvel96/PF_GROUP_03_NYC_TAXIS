@@ -165,7 +165,7 @@ En base a los datos recopilados llegamos a las siguientes <strong>observaciones 
   <br>
   <li><strong>Chevrolet y GMC</strong> son las marcas de autos más contaminantes.</li>
   <br>
-  <li><strong>Los modelos Silverado 4WD y Sierra 4WD son los autos que más C02 producen</strong></li>
+  <li><strong>Los modelos Silverado 4WD y Sierra 4WD son los autos que más C02 producen.</strong></li>
 </ul>
 <br>
 <h1>Integrantes</h1>
