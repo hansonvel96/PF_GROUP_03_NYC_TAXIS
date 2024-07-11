@@ -77,6 +77,9 @@ def resultado_autoelectrico():
 def contacto():
     return render_template('contacto.html')
 
+@app.route('/Power Bi')
+def powerbi():
+    return render_template('powerbi.html')
 
 if __name__ == '__main__':
     app.run(debug=True)
